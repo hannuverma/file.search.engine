@@ -1,0 +1,3 @@
+case - insensitve
+whole word - true
+show full path - no
